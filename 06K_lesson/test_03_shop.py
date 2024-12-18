@@ -58,7 +58,3 @@ def test_shopping_cart():
     assert total_price == "Total: $58.29", f"Expected Total: $58.29, but got {total_price}"
 
     driver.quit()
-
-
-if __name__ == "__main__":
-    pytest.main()

@@ -66,7 +66,3 @@ def test_form_submission():
     finally:
         driver.quit()
         logger.info("Browser closed.")
-
-
-if __name__ == "__main__":
-    pytest.main()
