@@ -1,9 +1,6 @@
 import requests
 
-base_url = "https://yougile.com/api-v2/"
-login_user = "if0hh@freesourcecodes.com"
-pass_user = "йцфяфк537"
-ID_Company = "02963f0a-472b-45cc-971f-04e7587b7c90"
+
 
 def test_auth():
     payload = {
