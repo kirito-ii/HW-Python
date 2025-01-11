@@ -1,0 +1,5 @@
+pip install selenium==4.27.1
+pip install webdriver-manage==4.0.2
+pip install requests==2.32.3
+pip install pytest==8.3.4
+pip install allure-pytest==2.13.5
